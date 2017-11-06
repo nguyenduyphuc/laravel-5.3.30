@@ -1,0 +1,17 @@
+
+
+.preview-file{
+	margin-top: 10px;
+}
+.preview-file tbody tr{
+	margin-bottom: 5px;
+	background: #ecf0f1;
+	border-bottom: 1px solid #2ecc71;
+}
+
+.preview-file tbody tr td{
+	padding-right: 20px;
+}
+
+.preview-delete{
+}
